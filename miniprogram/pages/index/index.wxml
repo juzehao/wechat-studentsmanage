@@ -1,0 +1,7 @@
+<van-card
+  num="2"
+  price="2.00"
+  desc="推送消息"
+  title="商品信息"
+
+  />

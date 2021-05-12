@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/check/check",
+    "pages/add/add",
+    "pages/index/index",
+    "pages/home/home"
+
+   
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "AHUT学生管理",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

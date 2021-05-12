@@ -1,0 +1,2 @@
+
+<van-button type="primary" block bind:click="add">增加数据</van-button>

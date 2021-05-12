@@ -1,0 +1,5 @@
+<!--pages/check/check.wxml-->
+<block wx:for="{{products}}">
+  <view>{{item.name}}</view>
+</block>
+<van-button type="primary" block bind:click="check">查找数据</van-button>
