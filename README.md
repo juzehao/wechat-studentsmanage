@@ -15,3 +15,4 @@
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 >>>>>>> cc30c0a (Initial Commit)
+>>>>>>> 在创建项目界面将该文件夹导入即可
